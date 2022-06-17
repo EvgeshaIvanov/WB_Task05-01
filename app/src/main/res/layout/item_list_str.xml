@@ -41,6 +41,7 @@
             android:layout_gravity="center"
             android:layout_marginBottom="60dp"
             android:fontFamily="@font/font_text"
+            android:gravity="center"
             android:text="@string/hero_name"
             android:textColor="@color/white"
             android:textSize="16sp" />
